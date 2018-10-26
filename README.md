@@ -1,10 +1,6 @@
 # CEG 6110 Homework 1
 
-+-------------+---------------------------------------+
-| Stable      | |travis-master|  
-+-------------+---------------------------------------+
-| Development | |travis-develop| 
-+-------------+---------------------------------------+
+[![Build Status](https://travis-ci.org/bar350/CEG_6110_Homework_1.svg?branch=master)](https://travis-ci.org/bar350/CEG_6110_Homework_1)
 
 Homework #1 Assignment for CEG 6110
 
