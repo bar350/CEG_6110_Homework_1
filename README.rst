@@ -8,6 +8,7 @@
 
 Homework #1 Assignment for CEG 6110
 
+
 This android app was designed and created for Homework Assignment #1 for CEG 6110 using Android Studio. It has two interactive User Interfaces
 (UIs), as listed in the assignment requirements. The first UI allows the user to type any set of words into a text field, which can be
 randomly set to any color by clicking a button. The second UI allows the user to draw a picture in a view and select any color with which
